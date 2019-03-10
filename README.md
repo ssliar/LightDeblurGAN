@@ -22,7 +22,16 @@
 ![input](imgs/3_input.png)![output](imgs/3_output.png)![detect](imgs/3_detect.png)
 ![input](imgs/4_input.png)![output](imgs/4_output.png)![detect](imgs/4_detect.png)
 ![input](imgs/5_input.png)![output](imgs/5_output.png)![detect](imgs/5_detect.png)
+![input](imgs/6_input.png)![output](imgs/6_output.png)![detect](imgs/6_detect.png)
 
+**References:**
+- [DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks](https://arxiv.org/abs/1712.04440).
+  Orest Kupyn, Volodymyr Budzan, Mykola Mykhailych, Dmytro Mishkin, Jiri Matas.
+- [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661).
+  Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, 
+  Sherjil Ozair, Aaron Courville, Yoshua Bengio.
+- [YOLOv3:An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf).
+  Joseph Redmon, Ali Farhadi.
 **References:**
 - [DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks](https://arxiv.org/abs/1712.04440).
   Orest Kupyn, Volodymyr Budzan, Mykola Mykhailych, Dmytro Mishkin, Jiri Matas.
