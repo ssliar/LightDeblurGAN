@@ -32,11 +32,3 @@
   Sherjil Ozair, Aaron Courville, Yoshua Bengio.
 - [YOLOv3:An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf).
   Joseph Redmon, Ali Farhadi.
-**References:**
-- [DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks](https://arxiv.org/abs/1712.04440).
-  Orest Kupyn, Volodymyr Budzan, Mykola Mykhailych, Dmytro Mishkin, Jiri Matas.
-- [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661).
-  Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, 
-  Sherjil Ozair, Aaron Courville, Yoshua Bengio.
-- [YOLOv3:An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf).
-  Joseph Redmon, Ali Farhadi.
